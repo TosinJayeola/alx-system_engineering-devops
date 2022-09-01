@@ -1,1 +1,1 @@
-my second assignment on git
+first commit in long format
